@@ -1,0 +1,13 @@
+D:\DoNetCore\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.exe
+D:\DoNetCore\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.deps.json
+D:\DoNetCore\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.runtimeconfig.json
+D:\DoNetCore\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.runtimeconfig.dev.json
+D:\DoNetCore\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.dll
+D:\DoNetCore\StackQueue\bin\Debug\netcoreapp3.1\StackQueue.pdb
+D:\DoNetCore\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.csprojAssemblyReference.cache
+D:\DoNetCore\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.AssemblyInfoInputs.cache
+D:\DoNetCore\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.AssemblyInfo.cs
+D:\DoNetCore\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.csproj.CoreCompileInputs.cache
+D:\DoNetCore\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.dll
+D:\DoNetCore\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.pdb
+D:\DoNetCore\StackQueue\obj\Debug\netcoreapp3.1\StackQueue.genruntimeconfig.cache
